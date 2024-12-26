@@ -11,7 +11,7 @@ module.exports = defineConfig({
       hideCredentials: true,
       requestMode: true,
        username: 'mateusefigenio55@gmail.com',
-        password: 'teste'
+      password: 'teste'
     },
     experimentalRunAllSpecs: true,
     specPattern: "**/*.feature",

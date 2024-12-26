@@ -6,7 +6,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Mateusline6/Teste-Cypress-com-Cucumber-BDD-e-API"
   },
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
