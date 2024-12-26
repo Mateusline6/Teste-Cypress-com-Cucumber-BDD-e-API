@@ -12,7 +12,8 @@
     "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
     "cypress": "^13.17.0",
-    "cucumber":"6.0.7"
+    "cucumber":"6.0.7",
+    "cypress-plugin-api": "^2.6.1"
   },
 
   "cypress-cucumber-preprocessor": {

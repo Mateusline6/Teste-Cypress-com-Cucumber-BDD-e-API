@@ -8,9 +8,9 @@ module.exports = defineConfig({
     baseUrl: "https://www.automationexercise.com/",
     experimentalSessionAndOrigin: true,
     env: {
-      hideCredentials: true,
+      hideCredentials: false,
       requestMode: true,
-       username: 'mateusefigenio55@gmail.com',
+       username: 'testecypress@gmail.com',
       password: 'teste'
     },
     experimentalRunAllSpecs: true,
