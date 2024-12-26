@@ -16,7 +16,8 @@ Este projeto utiliza as seguintes dependências:
 
 - **Cypress**: Framework de teste E2E.
 - **@badeball/cypress-cucumber-preprocessor**: Integração do Cucumber com o Cypress.
-- **@bahmutov/cypress-esbuild-preprocessor**: Suporte ao pré-processamento com Esbuild.
+- **@bahmutov/cypress-esbuild-preprocessor**: Preprocessor para arquivos de teste.
+- **cypress-plugin-api**: Fornece uma interface para testes de APIs no Cypress.
 
 Você pode verificar as versões específicas no arquivo `package.json`.
 
